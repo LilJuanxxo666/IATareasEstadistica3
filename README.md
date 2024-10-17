@@ -1,5 +1,8 @@
 by Juan Fernando Guzmán Castaño
+
 nick kaggle "Juancho Guzman"
+
+2024-2
 
 IMPORTANTE LEER
 
