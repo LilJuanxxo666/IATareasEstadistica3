@@ -10,3 +10,5 @@ IMPORTANTE LEER
 
 * tarea-2 (17 de octubre)
 
+* tare-3 (8 de noviembre) Se hizo lo que se pudo, no fue posible mejorar el resultado, la mejor opción fue con la redimensión.
+
